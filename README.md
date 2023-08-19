@@ -3,7 +3,7 @@
 ```javascript
 class About extends Me {
   constructor() {
-    this.name = "Tan";
+    this.name = "tan";
     this.pronouns = "She" | "Her";
     this.address = "Philippines";
   }
