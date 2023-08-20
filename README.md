@@ -9,7 +9,7 @@ class About extends Me {
   }
 
   function getDescriptions(){
-    return `Hi, my name is ${this.name}, I'am bad at coding!`;
+    return `Hi, my name is ${this.name}, I'm bad at coding.`;
   }
 
   function getGoal(){
