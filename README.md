@@ -20,4 +20,4 @@ class About extends Me {
 
 
 ## 💻 My Current Technical Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,c,bash,vim,vscode,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,bash,vim,vscode,github,git)](https://skillicons.dev)
